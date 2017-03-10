@@ -1,3 +1,2 @@
-I love git!!!
-I love java!!!
-I want a gf!!!
+It is a new day!
+NieLei is a SB!!!
